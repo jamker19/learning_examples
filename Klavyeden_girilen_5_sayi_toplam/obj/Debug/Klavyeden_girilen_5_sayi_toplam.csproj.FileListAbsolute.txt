@@ -1,0 +1,8 @@
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\obj\Debug\Klavyeden_girilen_5_sayi_toplam.csproj.AssemblyReference.cache
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\obj\Debug\Klavyeden_girilen_5_sayi_toplam.csproj.SuggestedBindingRedirects.cache
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\obj\Debug\Klavyeden_girilen_5_sayi_toplam.csproj.CoreCompileInputs.cache
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\bin\Debug\Klavyeden_girilen_5_sayi_toplam.exe.config
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\bin\Debug\Klavyeden_girilen_5_sayi_toplam.exe
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\bin\Debug\Klavyeden_girilen_5_sayi_toplam.pdb
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\obj\Debug\Klavyeden_girilen_5_sayi_toplam.exe
+D:\okul\codes\c#\Klavyeden_girilen_5_sayi_toplam\Klavyeden_girilen_5_sayi_toplam\obj\Debug\Klavyeden_girilen_5_sayi_toplam.pdb
